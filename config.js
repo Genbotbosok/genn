@@ -47,14 +47,14 @@ global.author = 'bot'
 global.wait = '▰▰▰▰▱▱▱▱▱▱ ʟᴏᴀᴅɪɴɢ...'
 global.eror = '「❗」Server LAGI ERROR SU!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '©️ zifabotz' //change the watermark 
+global.watermark = '©️ genbotz' //change the watermark 
 global.image = 'https://telegra.ph/file/052ca138a613c8859756f.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/c3bcc6f8e8574d1c5274f.jpg'
+global.thumbfoto = 'https://telegra.ph/file/4d1132cf44af1cbf68897.jpg'
 
 // image
-global.bcloc = 'https://telegra.ph/file/c3bcc6f8e8574d1c5274f.jpg'
-global.donasi = 'https://telegra.ph/file/64d8556e1645572a455a5.jpg'
-global.ow = 'https://telegra.ph/file/ae93a09d51c672afa8eb4.jpg'
+global.bcloc = 'https://telegra.ph/file/4d1132cf44af1cbf68897.jpg'
+global.donasi = 'https://telegra.ph/file/71e5d1d3e435b6b9988c4.jpg'
+global.ow = 'https://telegra.ph/file/4d1132cf44af1cbf68897.jpg'
 global.menu = 'https://telegra.ph/file/d487aca6b46c1282c250a.jpg'
 global.rules = 'https://telegra.ph/file/fc0bcf7e40cb0aa9ff64f.jpg'
 global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
