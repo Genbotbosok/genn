@@ -34,7 +34,7 @@ const defaultMenu = {
   body: '║│➸%cmd %islimit %isPremium',
   footer: '*╰───❉*\n',
   after: `
-  ⬣━〔Powered By Rozi〕━⬣
+  ⬣━〔Powered By Gen〕━⬣
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
